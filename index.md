@@ -7,6 +7,8 @@ Dieser findet am 23.05.2021 online statt.
 
 Bitte den folgenden Link klicken
 
+ [Hier klicken](https://reducer81.github.io/my-map/)
+
 [Hier Klicken](https://play.workadventu.re/_/global/reducer81.github.io/my-map/map.json)
 
 wwwYou can use the [editor on GitHub](https://github.com/reducer81/emi11/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
